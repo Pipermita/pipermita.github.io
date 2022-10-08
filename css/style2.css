@@ -18,23 +18,15 @@ body{
     padding: 5px 5px 5px 5px;
  }
 
- .page-wrapper3 {
-    background-image: url('../Images photo/baking wallpaper.jpg');
-    background-color: rgb(223, 243, 236);
-    background-size: cover;
-    margin: 0;
-    padding: 5px 5px 5px 5px;
- }
-
  header {
-    height: 25px;
+    height: 30px;
     width: 100%;
     background-color: rgb(250, 215, 215);
     position: fixed;
     border-top: 50px;
     left: 0px;
     right: 0px;
-    top: 70px;
+    top: 90px;
     z-index: 99999;
  }
 
@@ -94,4 +86,4 @@ body{
      background-image: none;
      display: none;}
      }
-  
+
